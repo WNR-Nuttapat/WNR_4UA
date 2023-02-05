@@ -2,6 +2,7 @@
 #include <ESP8266HTTPClient.h>
 #include <WiFiClient.h>
 
+// REPLACE WITH YOUR WIFI SSID AND PASSWORD
 const char* ssid = "WIFI_SSID";
 const char* password = "WIFI_PASSWORD";
 
